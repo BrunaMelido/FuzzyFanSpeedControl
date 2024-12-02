@@ -1,4 +1,5 @@
 **Descrição do Projeto**
+
 O projeto aborda a aplicação de lógica fuzzy no controle adaptativo de dispositivos, considerando variáveis ambientais como temperatura, umidade e concentração de CO₂. Este sistema tem como objetivo otimizar o conforto térmico em ambientes internos e melhorar a eficiência energética.
 
 **Funcionalidades**
